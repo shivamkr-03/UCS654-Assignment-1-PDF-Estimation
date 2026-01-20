@@ -40,8 +40,8 @@ a_r = 0.05(r \bmod 7), \quad b_r = 0.3((r \bmod 5)+1)
 $$
 
 For roll number **102303881**:
-- $r \bmod 7 = 6 \Rightarrow a_r = 0.3$
-- $r \bmod 5 = 2 \Rightarrow b_r = 0.9$
+- $r \bmod 7 = 1 \Rightarrow a_r = 0.05$
+- $r \bmod 5 = 1 \Rightarrow b_r = 0.6$
 
 ---
 
@@ -73,8 +73,8 @@ $$
 | Parameter | Value |
 |---|---:|
 | Roll Number | 102303881 |
-| a_r | 0.3 |
-| b_r | 0.9 |
+| a_r | 0.05 |
+| b_r | 0.6 |
 | Estimated Mean (mu) | 25.29 |
 | Estimated Lambda (lambda) | 0.00195 |
 | Estimated c | 0.0249 |
